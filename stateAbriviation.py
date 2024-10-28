@@ -1,3 +1,4 @@
+# state_mappings.py
 
 state_abbreviations = {
     "Alabama": "AL",
@@ -49,5 +50,21 @@ state_abbreviations = {
     "Washington": "WA",
     "West Virginia": "WV",
     "Wisconsin": "WI",
-    "Wyoming": "WY"
+    "Wyoming": "WY",
+    "Alberta": "AB",
+    "British Columbia": "BC",
+    "Manitoba": "MB",
+    "New Brunswick": "NB",
+    "Newfoundland and Labrador": "NL",
+    "Nova Scotia": "NS",
+    "Ontario": "ON",
+    "Prince Edward Island": "PE",
+    "Quebec": "QC",
+    "Saskatchewan": "SK",
+    "Yukon": "YT",
+    "Northwest Territories": "NT",
+    "Nunavut": "NU"
 }
+
+# Create a reverse mapping
+abbreviation_to_full = {v: k for k, v in state_abbreviations.items()}
