@@ -1,22 +1,37 @@
 [
     {
         "City": "San Francisco",
-        "State": "CA"
+        "State": "CA",
+        "Jobs": 1000
     },
     {
         "City": "New York",
-        "State": "NY"
+        "State": "NY",
+        "Jobs": 800
     },
     {
         "City": "Chicago",
-        "State": "IL"
+        "State": "IL",
+        "Jobs": 500
     },
     {
         "City": "Austin",
-        "State": "TX"
+        "State": "TX",
+        "Jobs": 600
     },
         {
         "City": "Detroit",
-        "State": "MI"
+        "State": "MI",
+        "Jobs": 400
+    },
+    {
+        "City": "Windsor",
+        "State": "ON",
+        "Jobs": 200
+    },
+        {
+        "City": "Winnipeg",
+        "State": "MB",
+        "Jobs": 100
     }
 ]
