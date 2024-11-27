@@ -2,36 +2,36 @@
     {
         "City": "San Francisco",
         "State": "CA",
-        "Jobs": 1000
+        "Job": "Farmer"
     },
     {
         "City": "New York",
         "State": "NY",
-        "Jobs": 800
+        "Job": "Farmer"
     },
     {
         "City": "Chicago",
         "State": "IL",
-        "Jobs": 500
+        "Job": "Farmer"
     },
     {
         "City": "Austin",
         "State": "TX",
-        "Jobs": 600
+        "Job": "Farmer"
     },
         {
         "City": "Detroit",
         "State": "MI",
-        "Jobs": 400
+        "Job": "Farmer"
     },
     {
         "City": "Windsor",
         "State": "ON",
-        "Jobs": 200
+        "Job": "Farmer"
     },
         {
         "City": "Winnipeg",
         "State": "MB",
-        "Jobs": 100
+        "Job": "Farmer"
     }
 ]
